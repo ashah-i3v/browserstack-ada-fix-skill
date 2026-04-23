@@ -15,7 +15,7 @@ This skill takes BrowserStack accessibility scan results and automatically:
 5. 📤 **Commits & pushes** to Bitbucket
 6. 🔗 **Opens** pull requests for review
 
-**All you need:** Either a BrowserStack accessibility scan result (CSV/Excel file or URL) or a code path for preventive mode.
+**All you need:** Either a BrowserStack accessibility scan result (CSV file or URL) or a code path for preventive mode.
 
 **🚀 Killer Feature:** Use **git worktree mode** to run ADA fixes in the background while you continue your current work without interruption!
 
