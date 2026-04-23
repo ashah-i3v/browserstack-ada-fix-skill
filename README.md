@@ -735,7 +735,6 @@ After running this workflow, you should see:
 ---
 
 **Ready to start?** Try this now:
-
 ```
 /fixada-file C:\BrowserStackReport\TNTRIPS-User Profile_09-04-2026.csv
 ```
