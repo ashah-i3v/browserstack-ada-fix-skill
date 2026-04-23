@@ -53,7 +53,7 @@ fixadaissues folder C:\BrowserStackReport
 
 ### 3. From a BrowserStack URL
 
-**Best for:** When you have a scan URL and haven't exported to CSV/Excel
+**Best for:** When you have a scan URL and haven't exported to CSV
 
 ```
 /fixada-results https://accessibility.browserstack.com/workflow-analyzer/report?ids=161485
